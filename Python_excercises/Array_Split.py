@@ -1,4 +1,4 @@
-var = [1,2,3,4]
+var = ['edison','tommy','anthony','josue']
 
 def arraysplit(array,size):
 	output = []
@@ -14,4 +14,4 @@ def arraysplit(array,size):
 
 
 
-print(arraysplit(var,4))
+print(arraysplit(var,2))
