@@ -1,3 +1,5 @@
+#this module is to split an array into the number of arrays specified in the parameter
+
 var = ['edison','tommy','anthony','josue']
 
 def arraysplit(array,size):

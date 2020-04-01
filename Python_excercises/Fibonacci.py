@@ -1,3 +1,4 @@
+# this is to print a fobonacci sequence based on the parameters added
 def fibonacci(n):
     s = str(type(n))
     s = 'int' in s
