@@ -1,4 +1,4 @@
-import timeit
+#this is to find the value which is not repeated
 
 def singlevalue(lit):
     for x in lit:
